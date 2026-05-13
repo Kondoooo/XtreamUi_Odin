@@ -102,3 +102,9 @@ Puedes añadirlo como cron job:
 | `fix_high_cpu.sql` | Script SQL con el fix y comentarios explicativos |
 | `apply_fix.sh` | Script bash que aplica el fix con verificación previa |
 | `README.md` | Este documento |
+
+---
+
+## Contacto
+
+Telegram: [@Xuioneitvymas](https://t.me/Xuioneitvymas)
